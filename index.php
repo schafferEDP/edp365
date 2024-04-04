@@ -52,7 +52,9 @@ $entries = json_decode(file_get_contents('./entries.json'));
 
 <div class="text-center mt-5 mb-5 text-white">
     <p class="font-inter-regular">&copy; 2024 schaffer-edp<br><a href="https://schaffer-edp.de/impressum">Impressum</a>
-        &ndash; <a href="https://schaffer-edp.de/datenschutz">Datenschutz</a><br></p>
+        &ndash; <a href="https://schaffer-edp.de/datenschutz">Datenschutz</a>
+        &ndash; <a href="https://get.anydesk.com/NZ4HLopx/edp-fernwartung.exe">Fernwartung</a><br>
+    </p>
 </div>
 
 </body>
