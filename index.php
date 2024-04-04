@@ -14,7 +14,6 @@ $entries = json_decode(file_get_contents('./entries.json'));
     <link href="assets/css/output.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 
-    <script src="assets/script.js" defer></script>
     <script src="assets/js/jquery.min.js"></script>
 </head>
 
