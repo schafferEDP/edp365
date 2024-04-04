@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tresor",
+    "url": "https://tresor.schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/tresor.png",
+    "color1": "#0f0c29",
+    "color2": "#24243e"
+  },
+  {
+    "name": "Inventar",
+    "url": "https://inventar.schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/inventar.png",
+    "color1": "#06beb6",
+    "color2": "#48b1bf"
+  },
+  {
+    "name": "Hausdiener",
+    "url": "https://hausdiener.schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/hausdiener.png",
+    "color1": "#DAE2F8",
+    "color2": "#D6A4A4"
+  },
+  {
+    "name": "Webseite",
+    "url": "https://schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/web.png",
+    "color1": "#ff6e7f",
+    "color2": "#bfe9ff"
+  },
+  {
+    "name": "Bibel",
+    "url": "https://bibel.schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/bibel.png",
+    "color1": "#ff8000",
+    "color2": "#ff8080"
+  },
+  {
+    "name": "Wolke",
+    "url": "https://wolke.schaffer-edp.de",
+    "image": "https://edp365.de/assets/img/wolke.png",
+    "color1": "#667db6",
+    "color2": "#0082c8"
+  }
+]
